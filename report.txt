@@ -1,0 +1,32 @@
+most months salary : (12 , 11 9)
+most categories : Technology > Furniture > Office Supplies
+most sub-categories(count) : phones > chairs > storage 
+most 10 cities : new york > loss angeles 
+most region : west > east 
+most segment : consumer > corprate > home office 
+Yearly sales : 2018 > 2017.5 > 2017 > 2016.5 
+most consumers : sean miller > tamara chand > raymond 
+waiting days : most days 4 days > 2500 order / days 5 days > 2000 order
+sales by months and categories : (Technology , sales = 130497 , 11) / (Furniture , sales = 121462 , 12)
+sales by months and sub-categories(salary) : (chairs , sales = 57429 , 12) / (phones , sales = 56015 , 11)
+season per year : 
+        2018 : 4 , 3 / (4) sales > 250000 / (1) sales > 100000
+        2017 : 4 , 3 / (4) sales > 200000 / (1) sales < 100000
+        2016 : 4 , 3 / (4) sales > 150000 / (1) sales > 50000
+        2015 : 4 , 3 / (4) sales > 150000 / (1) sales > 50000
+على اساس المبيعات السنينات اللي فاتت المبيعات تقل النصف تقريبا بداية كل سنة
+في اخر كل سنة المبيعات بتزيد و في السنة اللي بعدها بتقل النصف 
+
+30/12/2018
+تقريبا اكثر من 120000 في الربع الأول 
+تقدير مبيعات يناير 2019 = 45,000 إلى 50,000 تقريبًا
+عدد أيام الشهر = 31 → متوسط اليوم = 1,450 إلى 1,600
+تقدير 7 أيام = 1,500 × 7 = من 10,000 إلى 11,000 تقريبًا
+
+31 - > 2773
+1 -> 1600
+2 -> 1560
+3 -> 1540
+4 -> 1470
+5 -> 1480
+6 -> 1490
